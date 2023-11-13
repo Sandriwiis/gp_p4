@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Arnold Boecklin';
+    src: url('ArnoldBoecklin.woff2') format('woff2'),
+        url('ArnoldBoecklin.woff') format('woff'),
+        url('ArnoldBoecklin.ttf') format('truetype'),
+        url('ArnoldBoecklin.svg#ArnoldBoecklin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
